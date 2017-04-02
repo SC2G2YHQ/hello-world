@@ -5,5 +5,10 @@ int main(){
 	return 0;
 }
 
-void x(){
+
+int func_1(){
+	return 0;
+}
+
+void x(){	
 }
