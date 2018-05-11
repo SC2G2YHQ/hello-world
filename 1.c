@@ -12,3 +12,7 @@ int func_1(){
 int func_2(){
 	return 1;
 }
+
+int func_3(){
+	return 2;
+}
